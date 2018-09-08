@@ -1,6 +1,4 @@
-# Подготовка проекта Node.js Experiments
+Here will be a my humbles notes about using node.js
 
-## Необходимые компоненты
-### GitHub Desktop
-Скачать приложение GitHub Desktop c `https://desktop.github.com/`.
-
+[Init project](https://github.com/FantomNexx/pages-nodejs/edit/master/init-project.md)
+[Useful dependencies](https://github.com/FantomNexx/pages-nodejs/edit/master/useful-dependecies.md)
